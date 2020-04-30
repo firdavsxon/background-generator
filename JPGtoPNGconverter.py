@@ -21,6 +21,7 @@ for filename in os.listdir(image_folder):
 	print('all done!')
 	print('checking git status..')
 	print('checking status again....')
+	print('and agaimmn....')
 
 
 

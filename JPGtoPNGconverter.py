@@ -19,3 +19,4 @@ for filename in os.listdir(image_folder):
 	img.save(f'{dest_folder}{clean_name}.png', 'png')
 	x.save(f'{dest_folder}{clean_name}.enh.png', 'png')
 	print('all done!')
+	print("cheking for branch")

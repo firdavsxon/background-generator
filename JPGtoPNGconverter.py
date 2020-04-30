@@ -20,3 +20,4 @@ for filename in os.listdir(image_folder):
 	x.save(f'{dest_folder}{clean_name}.enh.png', 'png')
 	print('all done!')
 	print("hellooooo")
+

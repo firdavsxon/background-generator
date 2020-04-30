@@ -20,9 +20,7 @@ for filename in os.listdir(image_folder):
 	x.save(f'{dest_folder}{clean_name}.enh.png', 'png')
 	print('all done!')
 	print('checking git status..')
-	print('checking status again....')
-	print('and agaimmn....')
-
+	print('heeeeehehe')
 
 
 
